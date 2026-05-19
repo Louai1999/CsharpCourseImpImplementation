@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Bima test/Bima test.csproj" Id="ab5bfd16-4f20-4104-ab23-f287e1d005e4" />
   <Project Path="ClinicProject1/ClinicProject1.csproj" />
+  <Project Path="Hotel Management System/Hotel Management System.csproj" Id="1a221789-2ce1-455a-8506-2ce665e5ed31" />
 </Solution>
